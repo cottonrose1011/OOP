@@ -1,0 +1,8 @@
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\Init\Init\bin\Debug\Init.exe.config
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\Init\Init\bin\Debug\Init.exe
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\Init\Init\bin\Debug\Init.pdb
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\Init\Init\obj\Debug\Init.csproj.AssemblyReference.cache
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\Init\Init\obj\Debug\Init.csproj.SuggestedBindingRedirects.cache
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\Init\Init\obj\Debug\Init.csproj.CoreCompileInputs.cache
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\Init\Init\obj\Debug\Init.exe
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\Init\Init\obj\Debug\Init.pdb
