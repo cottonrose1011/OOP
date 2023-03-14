@@ -1,0 +1,8 @@
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\0313\0313\bin\Debug\0313.exe.config
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\0313\0313\bin\Debug\0313.exe
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\0313\0313\bin\Debug\0313.pdb
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\0313\0313\obj\Debug\0313.csproj.AssemblyReference.cache
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\0313\0313\obj\Debug\0313.csproj.SuggestedBindingRedirects.cache
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\0313\0313\obj\Debug\0313.csproj.CoreCompileInputs.cache
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\0313\0313\obj\Debug\0313.exe
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\0313\0313\obj\Debug\0313.pdb
