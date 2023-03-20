@@ -1,0 +1,8 @@
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\ArrayEx3\bin\Debug\ArrayEx3.exe.config
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\ArrayEx3\bin\Debug\ArrayEx3.exe
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\ArrayEx3\bin\Debug\ArrayEx3.pdb
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\ArrayEx3\obj\Debug\ArrayEx3.csproj.AssemblyReference.cache
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\ArrayEx3\obj\Debug\ArrayEx3.csproj.SuggestedBindingRedirects.cache
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\ArrayEx3\obj\Debug\ArrayEx3.csproj.CoreCompileInputs.cache
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\ArrayEx3\obj\Debug\ArrayEx3.exe
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\ArrayEx3\obj\Debug\ArrayEx3.pdb
