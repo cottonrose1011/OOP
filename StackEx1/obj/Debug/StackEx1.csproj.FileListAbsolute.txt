@@ -6,3 +6,11 @@ C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\StackEx1\obj\Debug\StackEx1.csp
 C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\StackEx1\obj\Debug\StackEx1.csproj.CoreCompileInputs.cache
 C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\StackEx1\obj\Debug\StackEx1.exe
 C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\StackEx1\obj\Debug\StackEx1.pdb
+C:\Users\정부용\Desktop\3-1학기\OOP\StackEx1\bin\Debug\StackEx1.exe.config
+C:\Users\정부용\Desktop\3-1학기\OOP\StackEx1\bin\Debug\StackEx1.exe
+C:\Users\정부용\Desktop\3-1학기\OOP\StackEx1\bin\Debug\StackEx1.pdb
+C:\Users\정부용\Desktop\3-1학기\OOP\StackEx1\obj\Debug\StackEx1.csproj.AssemblyReference.cache
+C:\Users\정부용\Desktop\3-1학기\OOP\StackEx1\obj\Debug\StackEx1.csproj.SuggestedBindingRedirects.cache
+C:\Users\정부용\Desktop\3-1학기\OOP\StackEx1\obj\Debug\StackEx1.csproj.CoreCompileInputs.cache
+C:\Users\정부용\Desktop\3-1학기\OOP\StackEx1\obj\Debug\StackEx1.exe
+C:\Users\정부용\Desktop\3-1학기\OOP\StackEx1\obj\Debug\StackEx1.pdb
