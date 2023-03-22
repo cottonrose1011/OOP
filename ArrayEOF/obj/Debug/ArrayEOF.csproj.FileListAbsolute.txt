@@ -1,8 +1,0 @@
-C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\ArrayEOF\bin\Debug\ArrayEOF.exe.config
-C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\ArrayEOF\bin\Debug\ArrayEOF.exe
-C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\ArrayEOF\bin\Debug\ArrayEOF.pdb
-C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\ArrayEOF\obj\Debug\ArrayEOF.csproj.AssemblyReference.cache
-C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\ArrayEOF\obj\Debug\ArrayEOF.csproj.SuggestedBindingRedirects.cache
-C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\ArrayEOF\obj\Debug\ArrayEOF.csproj.CoreCompileInputs.cache
-C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\ArrayEOF\obj\Debug\ArrayEOF.exe
-C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\ArrayEOF\obj\Debug\ArrayEOF.pdb
