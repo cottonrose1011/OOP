@@ -11,7 +11,7 @@ namespace StackEx1
         static void Main(string[] args)
         {
             Console.WriteLine("\n");
-            // Array 사용
+            Console.WriteLine("Array 사용\n");
             UseArray<int> ua = new UseArray<int>();
             Console.WriteLine("* 1 -> 2 -> 3 순서로 Push\n");
             ua.Push(1);
@@ -25,7 +25,7 @@ namespace StackEx1
             }
             Console.WriteLine();
 
-            // LinkedList 사용
+            Console.WriteLine("LinkedList 사용\n");
             UseLinkedList<String> uaList = new UseLinkedList<String>();
             Console.WriteLine("* ABC -> KSU -> OOP 순서로 Push");
             uaList.Push("ABC");
@@ -38,7 +38,7 @@ namespace StackEx1
             uaList.Push("STACK");
             Console.WriteLine("* 전부 POP\n");
 
-            while (uaList.GetTop() != 0)
+            while (uaList.GetTop() != -1)
             {
                 Console.WriteLine(uaList.Pop());
             }
@@ -72,7 +72,7 @@ namespace StackEx1
         class UseLinkedList<T>
         {
             LinkedList<T> stack;
-            int top = 0;
+            int top = -1;
 
             public UseLinkedList()
             {
@@ -91,13 +91,14 @@ namespace StackEx1
                 T data;
                 data = stack.Last();
                 stack.RemoveLast();
+                top--;
 
                 return data;
             }
 
             public int GetTop()
             {
-                return top--;
+                return top;
             }
         }
     }
