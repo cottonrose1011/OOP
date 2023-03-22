@@ -53,5 +53,5 @@
 
 #### 실행 결과
 
-<img width="350" alt="실행화면" src="https://user-images.githubusercontent.com/101866860/226938206-96ca887e-26ad-41e8-9cfb-44e7b9903b87.png">
+<img width="391" alt="테스트화면" src="https://user-images.githubusercontent.com/101866860/226941845-7a0a1550-e45e-4da8-b939-53a656723d62.png">
 
