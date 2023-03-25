@@ -37,13 +37,13 @@ namespace StackEx1
             uaList.Push("C#");
             uaList.Push("STACK");
             Console.WriteLine("* 전부 POP\n");
-
-            while (uaList.GetTop() != -1)
+            
+            while(uaList.GetTop() != -1)
             {
                 Console.WriteLine(uaList.Pop());
             }
-        }
 
+        }
         class UseArray<T>
         {
             T[] stack;
@@ -68,31 +68,64 @@ namespace StackEx1
                 return top;
             }
         }
+        class Node<T>
+        {
+            public T key;
+            public Node<T> next;
+            public Node(T newKey)
+            {
+                key = newKey;
+                next = null;
+            }
+        }
+        class MyLinkedList<T>
+        {
+            private Node<T> head;
+
+            public void addHead(T key)
+            {
+                Node<T> newNode = new Node<T>(key);
+                newNode.next = head;
+                head = newNode;
+            } 
+
+            public void deleteHead()
+            {
+                head = head.next;
+            }
+
+            public T getHead()
+            {   
+                if (head == null)
+                {
+                    Console.WriteLine("Head is empty");
+                    return default(T);
+                }
+                return head.key;
+            }
+        }
 
         class UseLinkedList<T>
         {
-            LinkedList<T> stack;
+            MyLinkedList<T> stack;
             int top = -1;
 
             public UseLinkedList()
             {
-                stack = new LinkedList<T>();
+                stack = new MyLinkedList<T>();
             }
 
             public void Push(T data) 
             {
-                stack.AddLast(data);
+                stack.addHead(data);
                 top++;
-                
             }
 
             public T Pop()
             {
-                T data;
-                data = stack.Last();
-                stack.RemoveLast();
+               T data = stack.getHead();
+                stack.deleteHead();
                 top--;
-
                 return data;
             }
 
