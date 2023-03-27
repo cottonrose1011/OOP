@@ -1,0 +1,11 @@
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\MyConsole\MyConsole\bin\Debug\MyConsole.exe.config
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\MyConsole\MyConsole\bin\Debug\MyConsole.exe
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\MyConsole\MyConsole\bin\Debug\MyConsole.pdb
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\MyConsole\MyConsole\obj\Debug\MyConsole.csproj.AssemblyReference.cache
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\MyConsole\MyConsole\obj\Debug\MyConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\MyConsole\MyConsole\obj\Debug\MyConsole.csproj.CoreCompileInputs.cache
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\MyConsole\MyConsole\obj\Debug\MyConsole.exe
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\MyConsole\MyConsole\obj\Debug\MyConsole.pdb
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\MyConsole\MyConsole\bin\Debug\MyDll.dll
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\MyConsole\MyConsole\bin\Debug\MyDll.pdb
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\MyConsole\MyConsole\obj\Debug\MyConsole.csproj.CopyComplete

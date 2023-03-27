@@ -1,0 +1,6 @@
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\MyConsole\MyDll\bin\Debug\MyDll.dll
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\MyConsole\MyDll\bin\Debug\MyDll.pdb
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\MyConsole\MyDll\obj\Debug\MyDll.csproj.AssemblyReference.cache
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\MyConsole\MyDll\obj\Debug\MyDll.csproj.CoreCompileInputs.cache
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\MyConsole\MyDll\obj\Debug\MyDll.dll
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\MyConsole\MyDll\obj\Debug\MyDll.pdb
