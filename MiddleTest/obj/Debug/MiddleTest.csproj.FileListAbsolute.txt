@@ -1,0 +1,8 @@
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\MiddleTest\bin\Debug\MiddleTest.exe.config
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\MiddleTest\bin\Debug\MiddleTest.exe
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\MiddleTest\bin\Debug\MiddleTest.pdb
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\MiddleTest\obj\Debug\MiddleTest.csproj.AssemblyReference.cache
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\MiddleTest\obj\Debug\MiddleTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\MiddleTest\obj\Debug\MiddleTest.csproj.CoreCompileInputs.cache
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\MiddleTest\obj\Debug\MiddleTest.exe
+C:\Users\lg\OneDrive\바탕 화면\3-1학기\OOP\MiddleTest\obj\Debug\MiddleTest.pdb
